@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools">
+
+    <item android:id="@+id/random"
+        android:icon="@drawable/ic_random"
+        android:title="@string/random"
+        android:iconTint="@color/purple_200"
+        tools:ignore="UnusedAttribute" />
+
+    <item android:id="@+id/list"
+        android:icon="@drawable/ic_list"
+        android:title="@string/list_menu"
+        android:iconTint="@color/purple_200"
+        tools:ignore="UnusedAttribute" />
+
+</menu>

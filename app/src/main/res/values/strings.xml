@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Joke Norris</string>
+    <string name="list_menu">List</string>
+    <string name="decs_refresh_the_jokes">Refresh the jokes!</string>
+    <string name="random">Random</string>
+    <string name="category">Category</string>
+    <string name="search_jokes">Search jokes</string>
+</resources>

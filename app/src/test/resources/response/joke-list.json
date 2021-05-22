@@ -1,0 +1,50 @@
+{
+  "total": 5,
+  "result": [
+    {
+      "categories": [],
+      "created_at": "2020-01-05 13:42:23.880601",
+      "icon_url": "https://assets.chucknorris.host/img/avatar/chuck-norris.png",
+      "id": "UH-5pRDrT_a35IHHMRDGRw",
+      "updated_at": "2020-01-05 13:42:23.880601",
+      "url": "https://api.chucknorris.io/jokes/UH-5pRDrT_a35IHHMRDGRw",
+      "value": "When life gives Chuck Norris lemons, he makes lemonade, and then goes to sunbathe on the beach."
+    },
+    {
+      "categories": [],
+      "created_at": "2020-01-05 13:42:24.142371",
+      "icon_url": "https://assets.chucknorris.host/img/avatar/chuck-norris.png",
+      "id": "MnW5pqS9TI-R55pnHGWUNw",
+      "updated_at": "2020-01-05 13:42:24.142371",
+      "url": "https://api.chucknorris.io/jokes/MnW5pqS9TI-R55pnHGWUNw",
+      "value": "CHUCK NORRIS ONLY SUCKS MY DICK"
+    },
+    {
+      "categories": [],
+      "created_at": "2020-01-05 13:42:28.143137",
+      "icon_url": "https://assets.chucknorris.host/img/avatar/chuck-norris.png",
+      "id": "IIiKwRd-QeijiuzhD1H6eg",
+      "updated_at": "2020-01-05 13:42:28.143137",
+      "url": "https://api.chucknorris.io/jokes/IIiKwRd-QeijiuzhD1H6eg",
+      "value": "Chuck Norris has Internet connection on his classic black Bell telephone."
+    },
+    {
+      "categories": [],
+      "created_at": "2020-01-05 13:42:28.664997",
+      "icon_url": "https://assets.chucknorris.host/img/avatar/chuck-norris.png",
+      "id": "SPv79G_bQWuEBMXyCMHynA",
+      "updated_at": "2020-01-05 13:42:28.664997",
+      "url": "https://api.chucknorris.io/jokes/SPv79G_bQWuEBMXyCMHynA",
+      "value": "Chuck Norris is the only person on earth who can rhyme 'orange' with 'lozenge'."
+    },
+    {
+      "categories": [],
+      "created_at": "2020-01-05 13:42:24.40636",
+      "icon_url": "https://assets.chucknorris.host/img/avatar/chuck-norris.png",
+      "id": "7TOymQUdSwyr8rqLMWwCGg",
+      "updated_at": "2020-01-05 13:42:24.40636",
+      "url": "https://api.chucknorris.io/jokes/7TOymQUdSwyr8rqLMWwCGg",
+      "value": "Plato got his facts wrong. It was Chuck Norris that destroyed Atlantis."
+    }
+  ]
+}

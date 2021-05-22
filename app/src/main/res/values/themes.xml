@@ -1,0 +1,47 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Theme.JokeNorris" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <!-- Primary brand color. -->
+        <item name="colorPrimary">@color/gray</item>
+        <item name="colorPrimaryVariant">@color/gray</item>
+        <item name="colorOnPrimary">@color/white</item>
+        <!-- Secondary brand color. -->
+        <item name="colorSecondary">@color/gray_dark</item>
+        <item name="colorSecondaryVariant">@color/gray_dark</item>
+        <item name="colorOnSecondary">@color/gray</item>
+        <!--<item name="colorPrimary">@color/black</item>
+        <item name="colorPrimaryVariant">@color/purple_700</item>
+        <item name="colorOnPrimary">@color/white</item>
+        &lt;!&ndash; Secondary brand color. &ndash;&gt;
+        <item name="colorSecondary">@color/teal_200</item>
+        <item name="colorSecondaryVariant">@color/teal_700</item>
+        <item name="colorOnSecondary">@color/black</item>-->
+        <!-- Status bar color. -->
+        <item name="android:statusBarColor" tools:targetApi="l">?attr/colorPrimaryVariant</item>
+        <!-- Customize your theme here. -->
+
+        <item name="fontFamily">serif-monospace</item>
+        <item name="android:textStyle">bold</item>
+
+        <item name="android:windowLightStatusBar" tools:targetApi="23">true</item>
+    </style>
+
+    <style name="ThemedTextAppearance" parent="TextAppearance.AppCompat.Small">
+        <item name="fontFamily">serif-monospace</item>
+    </style>
+
+    <style name="ThemedTextAppearance.Toolbar" parent="TextAppearance.AppCompat.Title">
+        <item name="fontFamily">serif-monospace</item>
+        <item name="android:textStyle">bold</item>
+    </style>
+
+    <style name="ThemedTextAppearance.NavBar" parent="TextAppearance.AppCompat.Small">
+        <item name="fontFamily">monospace</item>
+    </style>
+
+    <style name="ThemedTextAppearance.NavBar.Active" parent="ThemedTextAppearance.NavBar">
+        <item name="fontFamily">monospace</item>
+        <item name="android:textStyle">bold</item>
+    </style>
+
+</resources>

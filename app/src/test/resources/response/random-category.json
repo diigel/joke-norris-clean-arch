@@ -1,0 +1,11 @@
+{
+  "categories": [
+    "political"
+  ],
+  "created_at": "2020-01-05 13:42:25.628594",
+  "icon_url": "https://assets.chucknorris.host/img/avatar/chuck-norris.png",
+  "id": "IIkVw76ZRUqBwu-uln-RZA",
+  "updated_at": "2020-01-05 13:42:25.628594",
+  "url": "https://api.chucknorris.io/jokes/IIkVw76ZRUqBwu-uln-RZA",
+  "value": "Chuck Norris knows where Barack Obama was born."
+}

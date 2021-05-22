@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:tools="http://schemas.android.com/tools"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    tools:context=".ui.fragment.ListFragment">
+
+    <androidx.recyclerview.widget.RecyclerView
+        android:id="@+id/rv_joke"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:clipToPadding="false"
+        android:padding="6dp" />
+
+    <include
+        android:id="@+id/layout_network"
+        layout="@layout/item_network"
+        android:layout_centerInParent="true"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" />
+
+    <com.google.android.material.floatingactionbutton.FloatingActionButton
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_centerInParent="true"
+        android:layout_margin="34dp"
+        app:elevation="6dp"
+        android:id="@+id/btn_shuffle"
+        android:src="@drawable/ic_shuffle"
+        app:backgroundTint="@color/white"
+        android:contentDescription="@string/decs_refresh_the_jokes" />
+
+</RelativeLayout>
